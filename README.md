@@ -32,7 +32,7 @@ felipe@workstation ~> neofetch --me
 I operate at the intersection where **software architecture meets physical hardware**. Rather than choosing between cloud engineering and low-level firmware, I build end-to-end ecosystems — from microcontroller sensors on the factory floor and vehicle CAN-buses up to resilient, high-concurrency cloud backends and real-time mobile cockpits.
 
 - 🚀 **Founder & Lead Architect at [Vertiice](https://vertiice.com.br)**: Engineering edge computing solutions, biometric access devices, and customized IoT telemetry hardware with local-first reliability.
-- 🚛 **Mission-Critical Logistics**: Building core logistics, tracking, and ERP integration platforms (**Transcordeiro** & **GoLog / DevLog**), handling fleet dispatching, telemetry ingest pipelines, and offline-resilient driver tools.
+- 🚛 **Mission-Critical Logistics**: Building core logistics, tracking, and ERP integration platforms, handling fleet dispatching, telemetry ingest pipelines, and offline-resilient driver tools.
 - 🏎️ **Automotive & Telemetry Engineering**: Reverse engineering vehicle ECUs, diagnostics, flashing microcontrollers, and building custom CAN-bus / OBD-II telemetry loggers (**Freematics**).
 - ⚙️ **High-Performance Backend**: Crafting scalable microservices with **Java 21/25**, **Spring Boot 3**, **PostgreSQL**, **Redis**, and containerized workflows orchestrated via **Docker** on **Linux / WSL2**.
 - 📱 **Mobile & Reactive Web**: Developing fluid, cross-platform apps with **Flutter & Dart** and modern web interfaces using **TypeScript**, **React**, and **Next.js**.
